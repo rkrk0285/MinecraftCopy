@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\rkrk0\\Unreal Projects\\MinecraftCopy\\Source\\MinecraftCopy\\MinecraftCopy.Build.cs",
+		"C:\\Users\\rkrk0\\Unreal Projects\\MinecraftCopy\\Source\\MinecraftCopy.Target.cs",
+		"C:\\Users\\rkrk0\\Unreal Projects\\MinecraftCopy\\Source\\MinecraftCopyEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

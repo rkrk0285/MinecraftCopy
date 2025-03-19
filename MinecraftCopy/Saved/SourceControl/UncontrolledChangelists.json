@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/rkrk0/Unreal Projects/MinecraftCopy/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/rkrk0/Unreal Projects/MinecraftCopy/Content/Maps/NewWorld.umap",
+				"C:/Users/rkrk0/Unreal Projects/MinecraftCopy/Content/Materials/Landscape.uasset",
+				"C:/Users/rkrk0/Unreal Projects/MinecraftCopy/Content/InputSystem/IMC_Default.uasset",
+				"C:/Users/rkrk0/Unreal Projects/MinecraftCopy/Content/InputSystem/IA_Look.uasset",
+				"C:/Users/rkrk0/Unreal Projects/MinecraftCopy/Content/InputSystem/IA_Move.uasset",
+				"C:/Users/rkrk0/Unreal Projects/MinecraftCopy/Content/Character/BP_MyCharacter.uasset"
+			]
+		}
+	]
+}

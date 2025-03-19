@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MinecraftCopy-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\rkrk0\Unreal Projects\MinecraftCopy\Intermediate\Build\Win64\x64\MinecraftCopyEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.ValApi.Cpp20.h.obj"
+"C:\Users\rkrk0\Unreal Projects\MinecraftCopy\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MinecraftCopy\MinecraftCopy.init.gen.cpp.obj"
+"C:\Users\rkrk0\Unreal Projects\MinecraftCopy\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MinecraftCopy\MyCharacter.gen.cpp.obj"
+"C:\Users\rkrk0\Unreal Projects\MinecraftCopy\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MinecraftCopy\MyGameModeBase.gen.cpp.obj"
+"C:\Users\rkrk0\Unreal Projects\MinecraftCopy\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MinecraftCopy\MinecraftCopy.cpp.obj"
+"C:\Users\rkrk0\Unreal Projects\MinecraftCopy\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MinecraftCopy\MyCharacter.cpp.obj"
+"C:\Users\rkrk0\Unreal Projects\MinecraftCopy\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MinecraftCopy\MyGameModeBase.cpp.obj"
+"C:\Users\rkrk0\Unreal Projects\MinecraftCopy\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MinecraftCopy\PerModuleInline.gen.cpp.obj"
+"C:\Users\rkrk0\Unreal Projects\MinecraftCopy\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MinecraftCopy\Default.rc2.res"
+/OUT:"C:\Users\rkrk0\Unreal Projects\MinecraftCopy\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MinecraftCopy\UnrealEditor-MinecraftCopy-Win64-DebugGame.lib"

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MinecraftCopy",
+			"Path": "..\\Source\\MinecraftCopy.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MinecraftCopyEditor",
+			"Path": "..\\Source\\MinecraftCopyEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

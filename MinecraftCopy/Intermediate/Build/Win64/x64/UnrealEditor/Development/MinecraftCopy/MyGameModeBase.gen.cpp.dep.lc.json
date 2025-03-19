@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\rkrk0\\unreal projects\\minecraftcopy\\intermediate\\build\\win64\\unrealeditor\\inc\\minecraftcopy\\uht\\mygamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\rkrk0\\unreal projects\\minecraftcopy\\intermediate\\build\\win64\\x64\\minecraftcopyeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\rkrk0\\unreal projects\\minecraftcopy\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\minecraftcopy\\definitions.minecraftcopy.h",
+            "c:\\users\\rkrk0\\unreal projects\\minecraftcopy\\source\\minecraftcopy\\mygamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\rkrk0\\unreal projects\\minecraftcopy\\intermediate\\build\\win64\\unrealeditor\\inc\\minecraftcopy\\uht\\mygamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\rkrk0\\unreal projects\\minecraftcopy\\intermediate\\build\\win64\\unrealeditor\\inc\\minecraftcopy\\uht\\minecraftcopy.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\rkrk0\\unreal projects\\minecraftcopy\\intermediate\\build\\win64\\x64\\minecraftcopyeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\rkrk0\\unreal projects\\minecraftcopy\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\minecraftcopy\\definitions.minecraftcopy.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

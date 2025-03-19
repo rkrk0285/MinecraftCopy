@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MinecraftCopy.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\rkrk0\Unreal Projects\MinecraftCopy\Intermediate\Build\Win64\x64\MinecraftCopyEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\rkrk0\Unreal Projects\MinecraftCopy\Intermediate\Build\Win64\x64\UnrealEditor\Development\MinecraftCopy\MinecraftCopy.init.gen.cpp.obj"
+"C:\Users\rkrk0\Unreal Projects\MinecraftCopy\Intermediate\Build\Win64\x64\UnrealEditor\Development\MinecraftCopy\MyGameModeBase.gen.cpp.obj"
+"C:\Users\rkrk0\Unreal Projects\MinecraftCopy\Intermediate\Build\Win64\x64\UnrealEditor\Development\MinecraftCopy\MinecraftCopy.cpp.obj"
+"C:\Users\rkrk0\Unreal Projects\MinecraftCopy\Intermediate\Build\Win64\x64\UnrealEditor\Development\MinecraftCopy\MyGameModeBase.cpp.obj"
+"C:\Users\rkrk0\Unreal Projects\MinecraftCopy\Intermediate\Build\Win64\x64\UnrealEditor\Development\MinecraftCopy\PerModuleInline.gen.cpp.obj"
+"C:\Users\rkrk0\Unreal Projects\MinecraftCopy\Intermediate\Build\Win64\x64\UnrealEditor\Development\MinecraftCopy\Default.rc2.res"
+/OUT:"C:\Users\rkrk0\Unreal Projects\MinecraftCopy\Intermediate\Build\Win64\x64\UnrealEditor\Development\MinecraftCopy\UnrealEditor-MinecraftCopy.lib"

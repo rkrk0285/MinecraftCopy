@@ -1,0 +1,24 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\rkrk0\\unreal projects\\minecraftcopy\\source\\minecraftcopy\\mycharacter.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\rkrk0\\unreal projects\\minecraftcopy\\intermediate\\build\\win64\\x64\\minecraftcopyeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\rkrk0\\unreal projects\\minecraftcopy\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\minecraftcopy\\definitions.minecraftcopy.h",
+            "c:\\users\\rkrk0\\unreal projects\\minecraftcopy\\source\\minecraftcopy\\mycharacter.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\net\\core\\public\\net\\core\\nettoken\\nettokenexportcontext.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "c:\\users\\rkrk0\\unreal projects\\minecraftcopy\\intermediate\\build\\win64\\unrealeditor\\inc\\minecraftcopy\\uht\\mycharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
